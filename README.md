@@ -49,7 +49,7 @@ The model leverages text preprocessing techniques, TF-IDF feature extraction, an
 
 ### Results
 
-- Achieved ~98% accuracy using Logistic Regression with TF-IDF features
+- Achieved F1 score of ~98% using Logistic Regression with TF-IDF features
 - Logistic Regression performed better than Naive Bayes in terms of F1-score
 - The model effectively distinguishes fake and real news based on textual patterns
 
@@ -68,9 +68,9 @@ AI, Machine Learning, NLP, Text Classification
 
 ### Future Enhancements
 
+- Add real-time news scraping and prediction
 - Implement deep learning models like LSTM or BERT
 - Deploy the model as a web application using Streamlit
-- Add real-time news scraping and prediction
 
 ### Conclusion
 
